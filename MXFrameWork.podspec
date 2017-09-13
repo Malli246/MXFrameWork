@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/Malli246/MXFrameWork.git", :tag => "0.5" }
 
 
-  s.source_files  = "MXFrameWork", "MXFrameWork/**/*.{h,m,swift}"
+  s.source_files  = "git", "MXFrameWork/**/*.{h,m,swift}"
    
   s.requires_arc = true
 
